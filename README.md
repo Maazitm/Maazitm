@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Typing SVG" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefZvNWH5VzBL4ASD1JsbRHz-Q6vwmeTfLSg&s" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate about building high-performance, beautiful, and scalable cross-platform mobile applications.</h3>
