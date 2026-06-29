@@ -32,7 +32,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8CcAW2KVgTNQqJsi52iD1dqc3y8K6RsiVA&s)" alt="Trophies" />
+  <img src="https://static.vecteezy.com/system/resources/previews/017/119/660/non_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="Trophies" />
 </div>
 
 ---
