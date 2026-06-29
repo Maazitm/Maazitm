@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Siddi+Furqan+Maaz+👋;Mobile+App+Developer;Flutter+%7C+Dart+%7C+GetX;Building+Responsive+Apps!" alt="Typing SVG" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutAMRgsWzlTXFpSXMn-cdHwiruzZ1MllNIA&s" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate about building high-performance, beautiful, and scalable cross-platform mobile applications.</h3>
