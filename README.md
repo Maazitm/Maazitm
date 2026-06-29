@@ -1,27 +1,54 @@
-# Hi there, I'm Siddi Furqan Maaz 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Siddi+Furqan+Maaz+👋;Mobile+App+Developer;Flutter+%7C+Dart+%7C+GetX;Building+Responsive+Apps!" alt="Typing SVG" />
+</div>
 
-I am a professional Mobile Application Developer passionate about building high-performance, beautiful, and responsive cross-platform apps. 
-
-### 🛠️ Tech Stack & Focus
-* **Frameworks & Languages:** Flutter, Dart, Android
-* **State Management:** GetX
-* **Specialties:** UI/UX implementation, API integrations, and scalable app architecture.
+<h3 align="center">Passionate about building high-performance, beautiful, and scalable cross-platform mobile applications.</h3>
 
 ---
 
-
-### 📊 My GitHub Stats
-
+### 🛠️ Tech Stack & Arsenal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maazitm&show_icons=true&theme=radical" alt="Maaz's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/GetX-FF4B4B?style=for-the-badge&logo=appveyor&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+---
+
+### 🔥 GitHub Stats & Streaks
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maazitm&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maazitm&show_icons=true&theme=radical&hide_border=true" alt="Maaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maazitm&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maazitm&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<div align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maazitm&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://profile-counter.glitch.me/Maazitm/count.svg" alt="Profile Views" />
 </div>
-
----
-
-### 📫 Connect with me
