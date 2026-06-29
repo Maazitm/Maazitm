@@ -32,7 +32,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/017/119/660/non_2x/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg" alt="Trophies" />
+  <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Trophies" />
 </div>
 
 ---
