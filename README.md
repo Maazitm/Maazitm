@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/960px-Flutter_logo.svg.png" alt="Typing SVG" />
+  <img src="https://freebiehive.com/wp-content/uploads/2022/10/Google-Flutter-Icon-PNG-758x473.jpg" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate about building high-performance, beautiful, and scalable cross-platform mobile applications.</h3>
