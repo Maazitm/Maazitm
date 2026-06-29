@@ -18,15 +18,7 @@
 
 ---
 
-### 🔥 GitHub Stats & Streaks
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maazitm&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maazitm&show_icons=true&theme=radical&hide_border=true" alt="Maaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maazitm&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
-</div>
+
 
 ---
 
