@@ -20,13 +20,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://brand.github.com/_next/static/media/logo-03.cc5e5332.png" alt="Trophies" />
-</div>
-
----
-
 ### 📫 Connect with Me
 <div align="center">
   <a href="mailto:siddifurqan@gmail.com">
