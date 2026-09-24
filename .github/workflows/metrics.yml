@@ -17,7 +17,7 @@ jobs:
       # The `user:` field is set explicitly in all three steps.
 
       - name: 3D contribution calendar
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Maazitm
@@ -30,7 +30,7 @@ jobs:
 
       - name: Language mix
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Maazitm
@@ -45,7 +45,7 @@ jobs:
 
       - name: Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Maazitm
