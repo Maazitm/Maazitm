@@ -14,9 +14,9 @@
 
 ## 01 · About
 
-Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**.
+Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **10 apps to Google Play** across education, real estate, agriculture, fitness, and utilities.
 
-- Currently building **YOUR_PROJECT** <!-- replace: your best current project, with a link -->
+- Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 1K+ installs on Google Play
 - Learning **SOMETHING_SPECIFIC** <!-- e.g. a package, pattern, or platform you're really studying -->
 - Fun fact: **YOUR_FUN_FACT**
 
@@ -65,13 +65,18 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 
 <br>
 
-## 04 · Featured work
+## 04 · Shipped to Google Play
 
-<div align="center">
-
-<img src="assets/metrics.repositories.svg" alt="Featured repositories" width="100%">
-
-</div>
+| App | What it does | |
+| --- | --- | --- |
+| **Power Flash SOS** | Flashlight and SOS utility, **1K+ installs** | [Get it](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
+| **DWANI** | Learning app | [Get it](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
+| **Nanded Property Wala** | Real estate listings | [Get it](https://play.google.com/store/apps/details?id=com.npw.app) |
+| **GIS ZP Akola** | School attendance | [Get it](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
+| **SSEMS, Shirdi School** | School suite: [Teacher](https://play.google.com/store/apps/details?id=com.dwpl.shirditeacherapp), [Student](https://play.google.com/store/apps/details?id=com.dw.shirdischool), [Guardian](https://play.google.com/store/apps/details?id=com.dwpl.shirdiguardianapp) | [Teacher app](https://play.google.com/store/apps/details?id=com.dwpl.shirditeacherapp) |
+| **Easy Tribal Teacher** | Teacher app for tribal education | [Get it](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
+| **Krushi Mahotsav** | Agriculture festival app | [Get it](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
+| **Citizen Gym Nanded** | Gym app | [Get it](https://play.google.com/store/apps/details?id=com.citizengym.app) |
 
 <br>
 
