@@ -3,8 +3,7 @@
 <img src="assets/portrait.svg" width="220" alt="Furqan Maz">
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Furqan+Maz;Flutter+%2B+Dart+Developer;Cross-platform+apps+that+scale" alt="Furqan Maz - Flutter developer">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Furqan+Maz;Flutter+%2B+Dart+Developer;Cross-platform+apps+that+scale" alt="Furqan Maz - Flutter developer">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Furqan+Maz;Flutter+%2B+Dart+Developer;Cross-platform+apps+that+scale" alt="Siddi Furqan Maz - Flutter developer">
 
 <br>
 
