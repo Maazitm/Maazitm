@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="assets/portrait.gif" width="220" alt="Siddi Furqan Maz">
+<img src="assets/portrait1.gif" width="220" alt="Siddi Furqan Maz">
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Furqan+Maz;Flutter+%2B+Dart+Developer;Cross-platform+apps+that+scale" alt="Siddi Furqan Maz - Flutter developer">
