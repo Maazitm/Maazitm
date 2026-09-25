@@ -74,13 +74,12 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 | --- | --- | --- |
 | **Power Flash SOS** | Flashlight and SOS utility, **1K+ installs** | [Get it](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
 | **DWANI** | Learning app | [Get it](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
-| **Nanded Property Wala** | Real estate listings | [Get it](https://play.google.com/store/apps/details?id=com.npw.app) |
 | **GIS ZP Akola** | School attendance | [Get it](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
-| **SSEMS, Shirdi School** | School suite: [Teacher](https://play.google.com/store/apps/details?id=com.dwpl.shirditeacherapp), [Student](https://play.google.com/store/apps/details?id=com.dw.shirdischool), [Guardian](https://play.google.com/store/apps/details?id=com.dwpl.shirdiguardianapp) | [Teacher app](https://play.google.com/store/apps/details?id=com.dwpl.shirditeacherapp) |
 | **Easy Tribal Teacher** | Teacher app for tribal education | [Get it](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
 | **Krushi Mahotsav** | Agriculture festival app | [Get it](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
-| **Citizen Gym Nanded** | Gym app | [Get it](https://play.google.com/store/apps/details?id=com.citizengym.app) |
-
+| **JHT Health Device and Mobile App** |  | [Get it]() |
+| **College Project BCA : PDF ALL IN ONE** |  | [Get it](https://maazitm.github.io/PDF-All-In-One/home.html) |
+| **College Project MCA : Production App Citizen Gym Nanded** |  | [Get it](https://play.google.com/store/apps/details?id=com.citizengym.app) |
 <br>
 
 ## 05 · Let's talk
