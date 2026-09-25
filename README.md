@@ -69,18 +69,16 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 <br>
 
 ## 04 · Shipped to Google Play
-
-| App | What it does | |
-| --- | --- | --- |
-| **Power Flash SOS** | Flashlight and SOS utility, **1K+ installs** | [Get it](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
-| **DWANI** | Learning app | [Get it](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
-| **GIS ZP Akola** | School attendance | [Get it](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
-| **Easy Tribal Teacher** | Teacher app for tribal education | [Get it](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
-| **Krushi Mahotsav** | Agriculture festival app | [Get it](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
-| **JHT Health Device and Mobile App** |  | [Get it]() |
-| **College Project BCA : PDF ALL IN ONE** |  | [Get it](https://maazitm.github.io/PDF-All-In-One/home.html) |
-| **College Project MCA : Production App Citizen Gym Nanded** |  | [Get it](https://play.google.com/store/apps/details?id=com.citizengym.app) |
-<br>
+| App / Project | What it does | Link |
+| :--- | :--- | :---: |
+| **Power Flash SOS** | Flashlight and SOS emergency utility, **1K+ installs** | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
+| **DWANI** | Comprehensive learning and education platform | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
+| **GIS ZP Akola** | Geolocation-based school attendance & tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
+| **Easy Tribal Teacher** | Teacher workflow & management for tribal education | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
+| **Krushi Mahotsav** | Agriculture festival guide & visitor pass system | [View on Play Store](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
+| **Citizen Gym Nanded** | Full-scale fitness management app *(MCA Project)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.citizengym.app) |
+| **PDF All In One** | Web utility for merging, converting & viewing PDFs *(BCA Project)* | [Live Demo](https://maazitm.github.io/PDF-All-In-One/home.html) |
+| **JHT Health Device & App** | Healthcare monitoring device paired with mobile app for doctors | *Proprietary of company* |
 
 ## 05 · Let's talk
 
