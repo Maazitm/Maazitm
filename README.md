@@ -20,8 +20,8 @@
 Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **10 apps to Google Play** across education, real estate, agriculture, fitness, and utilities.
 
 - Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 1K+ installs on Google Play
-- Learning **SOMETHING_SPECIFIC** <!-- e.g. a package, pattern, or platform you're really studying -->
-- Fun fact: **YOUR_FUN_FACT**
+- 🔭 Learning **Advanced Flutter State Management & Clean Architecture**
+- ⚡ Fun fact: **I don't just build software—I also edit the walkthrough videos that make it look seamless.**
 
 <br>
 
