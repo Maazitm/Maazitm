@@ -28,8 +28,7 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 ## 02 · Toolbox
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,vscode&perline=7" alt="Flutter, Dart, Firebase, Android Studio, Git, GitHub, VS Code">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,androidstudio,vscode,git,github,linux,figma&perline=6" alt="My Tech Stack">
 
 <br><br>
 
