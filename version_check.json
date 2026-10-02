@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 9,
-  "latest_version_name": "1.0.8",
+  "latest_version_code": 8,
+  "latest_version_name": "1.0.7",
   "update_title": "New Update Available!",
   "update_message": "Bug fixes, faster performance & improved emergency tools.",
   "force_update": false
