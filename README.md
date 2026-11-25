@@ -17,9 +17,10 @@
 
 ## 01 · About
 
-Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **10 apps to Google Play** across education, real estate, agriculture, fitness, and utilities.
+Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **12 apps to Google Play** across education, healthcare, agriculture, fitness, and ad-monetized utilities.
 
 - Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 5K+ installs on Google Play
+- Launching live ad-supported utilities including **[Speaker Cleaner: Water Ejector](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner)** and **[QR Code Scanner & Generator](https://play.google.com/store/apps/details?id=com.siddi.qrstudio)**
 - 🔭 Learning **Advanced Flutter State Management & Clean Architecture**
 - ⚡ Fun fact: **I don't just build software—I also edit the walkthrough videos that make it look seamless.**
 
@@ -34,6 +35,7 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 
 <img src="https://img.shields.io/badge/State_management-GetX-54C5F8?style=flat-square&labelColor=1f2328" alt="GetX">
 <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&labelColor=1f2328&logo=firebase&logoColor=FFCA28" alt="Firebase">
+<img src="https://img.shields.io/badge/Monetization-Google_AdMob-EA4335?style=flat-square&labelColor=1f2328&logo=googleadmob&logoColor=EA4335" alt="Google AdMob">
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&labelColor=1f2328&logo=android&logoColor=3DDC84" alt="Android">
 
 </div>
@@ -71,6 +73,8 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 | App / Project | What it does | Link |
 | :--- | :--- | :---: |
 | **Power Flash SOS** | Flashlight and SOS emergency utility, **5K+ installs** | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
+| **Speaker Cleaner: Water Ejector** | Acoustic frequency water ejector & speaker dust cleaner *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner) |
+| **QR Code Scanner & Generator** | Fast QR & barcode scanner and custom QR studio *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddi.qrstudio) |
 | **DWANI** | Comprehensive learning and education platform | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
 | **GIS ZP Akola** | Geolocation-based school attendance & tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
 | **Easy Tribal Teacher** | Teacher workflow & management for tribal education | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
