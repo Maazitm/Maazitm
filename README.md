@@ -1,9 +1,9 @@
 <div align="center">
-  
+
 <img src="assets/portrait1.gif" width="220" alt="Siddi Furqan Maz">
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Furqan+Maz;Flutter+%2B+Dart+Developer;Cross-platform+apps+that+scale" alt="Siddi Furqan Maz - Flutter developer">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=54C5F8&center=true&vCenter=true&width=640&lines=Siddi+Furqan+Maz;Flutter+%2B+Dart+Engineer;Cross-Platform+Apps+That+Scale" alt="Siddi Furqan Maz - Flutter developer">
 
 <br>
 
@@ -17,26 +17,26 @@
 
 ## 01 · About
 
-Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **12 apps to Google Play** across education, healthcare, agriculture, fitness, and ad-monetized utilities.
+Hi, I'm **Furqan** — a **Flutter & Full-Stack Mobile Engineer** building production-grade Android, iOS, and web applications that scale. I've shipped **12+ apps to Google Play** spanning government digital infrastructure, EdTech, healthcare, and ad-monetized consumer utilities.
 
-- Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 5K+ installs on Google Play
-- Launching live ad-supported utilities including **[Speaker Cleaner: Water Ejector](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner)** and **[QR Code Scanner & Generator](https://play.google.com/store/apps/details?id=com.siddi.qrstudio)**
-- 🔭 Learning **Advanced Flutter State Management & Clean Architecture**
-- ⚡ Fun fact: **I don't just build software—I also edit the walkthrough videos that make it look seamless.**
+- Scaling **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)** (5K+ installs) alongside live ad-supported utilities including **[Speaker Cleaner: Water Ejector](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner)** and **[QR Code Scanner & Generator](https://play.google.com/store/apps/details?id=com.siddi.qrstudio)**
+- Currently rolling out **Lucky Rat Roulette: Mouse Game** on Google Play *(in review)*
+- 🔭 Deepening expertise in **Clean Architecture, Offline-First Sync & Real-Time SDK Integrations**
+- ⚡ Beyond code: **I produce the UI/UX animations and product walkthrough videos that bring every release to life.**
 
 <br>
 
 ## 02 · Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,androidstudio,vscode,git,github,linux,figma&perline=6" alt="My Tech Stack">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,laravel,mysql,html,css,js,androidstudio,git,figma&perline=6" alt="My Tech Stack">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/State_management-GetX-54C5F8?style=flat-square&labelColor=1f2328" alt="GetX">
-<img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&labelColor=1f2328&logo=firebase&logoColor=FFCA28" alt="Firebase">
+<img src="https://img.shields.io/badge/State_Management-GetX_%7C_BLoC-54C5F8?style=flat-square&labelColor=1f2328" alt="GetX & BLoC">
+<img src="https://img.shields.io/badge/SDKs-Zoom_%7C_Razorpay_%7C_ML_Kit-00BFA5?style=flat-square&labelColor=1f2328" alt="SDKs">
 <img src="https://img.shields.io/badge/Monetization-Google_AdMob-EA4335?style=flat-square&labelColor=1f2328&logo=googleadmob&logoColor=EA4335" alt="Google AdMob">
-<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&labelColor=1f2328&logo=android&logoColor=3DDC84" alt="Android">
+<img src="https://img.shields.io/badge/Platform-Android_%26_Web-3DDC84?style=flat-square&labelColor=1f2328&logo=android&logoColor=3DDC84" alt="Android">
 
 </div>
 
@@ -69,20 +69,22 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 
 <br>
 
-## 04 · Shipped to Google Play
-| App / Project | What it does | Link |
+## 04 · Shipped to Google Play & Production
+
+| App / Project | Description | Status / Link |
 | :--- | :--- | :---: |
-| **Power Flash SOS** | Flashlight and SOS emergency utility, **5K+ installs** | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
+| **Power Flash SOS** | High-intensity flashlight and emergency SOS utility (**5K+ installs**) | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
 | **Speaker Cleaner: Water Ejector** | Acoustic frequency water ejector & speaker dust cleaner *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner) |
-| **QR Code Scanner & Generator** | Fast QR & barcode scanner and custom QR studio *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddi.qrstudio) |
-| **DWANI** | Comprehensive learning and education platform | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
-| **GIS ZP Akola** | Geolocation-based school attendance & tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
-| **Easy Tribal Teacher** | Teacher workflow & management for tribal education | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
-| **Krushi Mahotsav** | Agriculture festival guide & visitor pass system | [View on Play Store](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
-| **Citizen Gym Nanded** | Full-scale fitness management app *(MCA Project)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.citizengym.app) |
-| **PDF All In One** | Web utility for merging, converting & viewing PDFs *(BCA Project)* | [Live Demo](https://maazitm.github.io/PDF-All-In-One/home.html) |
-| **JHT Health Device & App** | Healthcare monitoring device paired with mobile app for doctors | *Proprietary of company* |
+| **QR Code Scanner & Generator** | High-speed QR/barcode scanner and custom QR studio *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddi.qrstudio) |
+| **Lucky Rat Roulette: Mouse Game** | Interactive arcade roulette mobile game built with custom Flutter animations | *In Review on Play Store* |
+| **DWANI** | Student-oriented EdTech app featuring **in-built Zoom live lectures** & **Razorpay online payments** | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
+| **ITDP Kalamnuri Teacher App** | Official faculty workflow, face attendance & school management app for ITDP Kalamnuri | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
+| **GIS ZP Akola** | Government geolocation-based attendance & field tracking system for **Zilla Parishad Akola** | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
+| **Krushi Mahotsav** | Agricultural expo guide, live schedule & QR visitor pass verification system | [View on Play Store](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
+| **Citizen Gym Nanded** | End-to-end fitness center & member management app *(MCA Project)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.citizengym.app) |
+| **PDF All In One** | Browser-based PDF utility for merging, converting & viewing documents *(BCA Project)* | [Live Demo](https://maazitm.github.io/PDF-All-In-One/home.html) |
+| **JHT Health Device & App** | Medical monitoring hardware paired with a companion Flutter app for doctors | *Proprietary Enterprise App* |
 
-## 05 · Let's talk
+## 05 · Let's Connect
 
-Open to Flutter projects, collaborations, and full-time roles. The fastest way to reach me is [email](mailto:siddifurqan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/siddi-furqan-maz-2a57a0279/).
+Open to **Flutter / Mobile Engineering roles**, freelance product builds, and technical collaborations. Reach out directly via [Email](mailto:siddifurqan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/siddi-furqan-maz-2a57a0279/).
