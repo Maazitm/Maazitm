@@ -68,23 +68,86 @@ Hi, I'm **Furqan** — a **Flutter & Full-Stack Mobile Engineer** building produ
 </div>
 
 <br>
-
 ## 04 · Shipped to Google Play & Production
 
-| App / Project | Description | Status / Link |
-| :--- | :--- | :---: |
-| **Power Flash SOS** | High-intensity flashlight and emergency SOS utility (**5K+ installs**) | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
-| **Speaker Cleaner: Water Ejector** | Acoustic frequency water ejector & speaker dust cleaner *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner) |
-| **QR Code Scanner & Generator** | High-speed QR/barcode scanner and custom QR studio *(Ad-supported)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddi.qrstudio) |
-| **Lucky Rat Roulette: Mouse Game** | Interactive arcade roulette mobile game built with custom Flutter animations | *In Review on Play Store* |
-| **DWANI** | Student-oriented EdTech app featuring **in-built Zoom live lectures** & **Razorpay online payments** | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
-| **ITDP Kalamnuri Teacher App** | Official faculty workflow, face attendance & school management app for ITDP Kalamnuri | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
-| **GIS ZP Akola** | Government geolocation-based attendance & field tracking system for **Zilla Parishad Akola** | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
-| **Krushi Mahotsav** | Agricultural expo guide, live schedule & QR visitor pass verification system | [View on Play Store](https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi) |
-| **Citizen Gym Nanded** | End-to-end fitness center & member management app *(MCA Project)* | [View on Play Store](https://play.google.com/store/apps/details?id=com.citizengym.app) |
-| **PDF All In One** | Browser-based PDF utility for merging, converting & viewing documents *(BCA Project)* | [Live Demo](https://maazitm.github.io/PDF-All-In-One/home.html) |
-| **JHT Health Device & App** | Medical monitoring hardware paired with a companion Flutter app for doctors | *Proprietary Enterprise App* |
-
+<table>
+  <thead>
+    <tr>
+      <th align="center">Logo</th>
+      <th align="left">App / Project</th>
+      <th align="left">Description</th>
+      <th align="center">Status / Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="assets/power_flash.png" width="44" height="44" alt="Power Flash SOS"></td>
+      <td><b>Power Flash SOS</b></td>
+      <td>High-intensity flashlight &amp; emergency SOS utility (<b>5K+ installs</b>)</td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/speaker_cleaner.png" width="44" height="44" alt="Speaker Cleaner"></td>
+      <td><b>Speaker Cleaner: Water Ejector</b></td>
+      <td>Acoustic frequency water ejector &amp; speaker dust cleaner <i>(Ad-supported)</i></td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.turbocleaner.turbo_speaker_cleaner">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/qr_studio.png" width="44" height="44" alt="QR Code Scanner"></td>
+      <td><b>QR Code Scanner &amp; Generator</b></td>
+      <td>High-speed QR/barcode scanner &amp; custom QR studio <i>(Ad-supported)</i></td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.siddi.qrstudio">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/dwani.png" width="44" height="44" alt="DWANI"></td>
+      <td><b>DWANI</b></td>
+      <td>Student-oriented EdTech platform with <b>in-built Zoom live lectures</b> &amp; <b>online payments</b></td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.dwani.learning.app">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/itdp.png" width="44" height="44" alt="ITDP Kalamnuri Teacher App"></td>
+      <td><b>ITDP Kalamnuri Teacher App</b></td>
+      <td>Official faculty workflow, face attendance &amp; school management app for ITDP Kalamnuri</td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.tribal.teacher.edu">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/gis_zp.png" width="44" height="44" alt="GIS ZP Akola"></td>
+      <td><b>GIS ZP Akola</b></td>
+      <td>Government geolocation-based attendance &amp; tracking system for <b>Zilla Parishad Akola</b></td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/krushi.png" width="44" height="44" alt="Krushi Mahotsav"></td>
+      <td><b>Krushi Mahotsav</b></td>
+      <td>Agricultural expo guide, live schedule &amp; QR visitor pass verification system</td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.webbies.mahotsav.krushi">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/citizen_gym.png" width="44" height="44" alt="Citizen Gym Nanded"></td>
+      <td><b>Citizen Gym Nanded</b></td>
+      <td>End-to-end fitness center &amp; member management app <i>(MCA Project)</i></td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.citizengym.app">View on Play Store</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/lucky_rat.png" width="44" height="44" alt="Lucky Rat Roulette"></td>
+      <td><b>Lucky Rat Roulette: Mouse Game</b></td>
+      <td>Interactive arcade roulette mobile game built with custom Flutter animations</td>
+      <td align="center"><i>In Review on Play Store</i></td>
+    </tr>
+    <tr>
+      <td align="center">📄</td>
+      <td><b>PDF All In One</b></td>
+      <td>Browser-based PDF utility for merging, converting &amp; viewing documents <i>(BCA Project)</i></td>
+      <td align="center"><a href="https://maazitm.github.io/PDF-All-In-One/home.html">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td align="center">🩺</td>
+      <td><b>JHT Health Device &amp; App</b></td>
+      <td>Medical monitoring hardware paired with a companion Flutter app for doctors</td>
+      <td align="center"><i>Proprietary Enterprise App</i></td>
+    </tr>
+  </tbody>
+</table>
 ## 05 · Let's Connect
 
 Open to **Flutter / Mobile Engineering roles**, freelance product builds, and technical collaborations. Reach out directly via [Email](mailto:siddifurqan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/siddi-furqan-maz-2a57a0279/).
