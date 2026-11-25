@@ -141,7 +141,7 @@ Hi, I'm **Furqan** — a **Flutter & Full-Stack Mobile Engineer** building produ
       <td align="center"><a href="https://maazitm.github.io/PDF-All-In-One/home.html">Live Demo</a></td>
     </tr>
     <tr>
-      <td align="center">🩺</td>
+     <td align="center"><img src="assets/jht_device.png" width="44" height="44" alt="Lucky Rat Roulette"></td>
       <td><b>JHT Health Device &amp; App</b></td>
       <td>Medical monitoring hardware paired with a companion Flutter app for doctors</td>
       <td align="center"><i>Proprietary Enterprise App</i></td>
