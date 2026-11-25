@@ -135,7 +135,7 @@ Hi, I'm **Furqan** — a **Flutter & Full-Stack Mobile Engineer** building produ
       <td align="center"><i>In Review on Play Store</i></td>
     </tr>
     <tr>
-      <td align="center">📄</td>
+      <td align="center"><img src="assets/pdf_all_in_one.png" width="44" height="44" alt="Lucky Rat Roulette"></td>
       <td><b>PDF All In One</b></td>
       <td>Browser-based PDF utility for merging, converting &amp; viewing documents <i>(BCA Project)</i></td>
       <td align="center"><a href="https://maazitm.github.io/PDF-All-In-One/home.html">Live Demo</a></td>
