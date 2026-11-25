@@ -19,7 +19,7 @@
 
 Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-platform mobile apps with **Flutter** and **Dart**, and I've shipped **10 apps to Google Play** across education, real estate, agriculture, fitness, and utilities.
 
-- Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 1K+ installs on Google Play
+- Shipping updates to **[Power Flash SOS](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash)**, now at 5K+ installs on Google Play
 - 🔭 Learning **Advanced Flutter State Management & Clean Architecture**
 - ⚡ Fun fact: **I don't just build software—I also edit the walkthrough videos that make it look seamless.**
 
@@ -70,7 +70,7 @@ Hi, I'm **Furqan**. I build high-performance, beautiful, and scalable cross-plat
 ## 04 · Shipped to Google Play
 | App / Project | What it does | Link |
 | :--- | :--- | :---: |
-| **Power Flash SOS** | Flashlight and SOS emergency utility, **1K+ installs** | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
+| **Power Flash SOS** | Flashlight and SOS emergency utility, **5K+ installs** | [View on Play Store](https://play.google.com/store/apps/details?id=com.siddifurqan.powerflash) |
 | **DWANI** | Comprehensive learning and education platform | [View on Play Store](https://play.google.com/store/apps/details?id=com.dwani.learning.app) |
 | **GIS ZP Akola** | Geolocation-based school attendance & tracking | [View on Play Store](https://play.google.com/store/apps/details?id=com.dreamwebies.gis.attendance) |
 | **Easy Tribal Teacher** | Teacher workflow & management for tribal education | [View on Play Store](https://play.google.com/store/apps/details?id=com.tribal.teacher.edu) |
